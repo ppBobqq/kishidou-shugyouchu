@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"お気に入りの水色のワンピース　一繋ぎの財宝とは全く関係ない","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":4,"value":1}],"iconIndex":135,"name":"ワンピース","note":"","params":[0,0,0,2,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"中古品屋で買った鎧　本来は具足とセットだが上半身しか\n着られなかった","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"ハーフメイル","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":3,"atypeId":5,"description":"中古品屋で買ったバックラー　受けて防ぐのではない！\n流すのだ！","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"バックラー","note":"","params":[0,0,0,3,0,0,0,0],"price":0},
+{"id":4,"atypeId":1,"description":"安かったからなんとなく露店で買った\n安いよフレンド攻撃は旅によくある　","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.2}],"iconIndex":146,"name":"古びたネックレス","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":1,"description":"憧れのクラムハーツ！　のパチモン　一応シルバー925製","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.1},{"code":22,"dataId":0,"value":0.1}],"iconIndex":144,"name":"シルバーバンクル","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

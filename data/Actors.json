@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$ai10","classId":1,"equips":[0,0,0,1,0],"faceIndex":1,"faceName":"ileen10","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン","nickname":"","note":"<face1 9>\n<face2 10>\n<face3 11>","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$ai14_2","classId":2,"equips":[1,0,0,2,0],"faceIndex":1,"faceName":"ileen14_1","traits":[],"initialLevel":5,"maxLevel":15,"name":"アイリーン","nickname":"","note":"<face1 12>\n<face2 13>\n<face3 14>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"町人H","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"---","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ileen10_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン100%","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"ileen10_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン50%","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"ileen10_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン25%","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ileen14_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン14　100%","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"ileen14_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン14　50%","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"ileen14_battle","traits":[],"initialLevel":1,"maxLevel":99,"name":"アイリーン14　25%","nickname":"","note":"","profile":""}
+]

@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":12,"description":"中古品屋で買った馬上槍　少々傷んでいるがまだまだ使える！","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":107,"name":"ホーススピア","note":"<skill_id:14> ","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":12},
+{"id":2,"animationId":6,"description":"薪割り用のナタ。\n武器ではなく、あくまで道具。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":53,"dataId":1,"value":1}],"iconIndex":96,"name":"ナタ","note":"<skill_id:3> ","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":3,"animationId":11,"description":"ナタの柄に木の棒を結びつけたもの。\nアイリーンの使用に適した武器。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.8}],"iconIndex":107,"name":"アイリーンの槍","note":"<skill_id:20> ","params":[0,0,5,0,0,0,0,0],"price":0,"wtypeId":12},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
