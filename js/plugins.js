@@ -13,5 +13,5 @@ var $plugins =
 {"name":"WeaponSkill","status":true,"description":"武器ごとに通常攻撃のスキルIDを変更します。","parameters":{}},
 {"name":"kisidou","status":true,"description":"このゲーム戦闘のプラグインです。","parameters":{}},
 {"name":"TestPlugin","status":true,"description":"テスト","parameters":{"AttackNum":"5","AllFrame":"60","ChainAttackFrame":"30","":""}},
-{"name":"BugFixParallelEventAndCharacter","status":true,"description":"並列処理イベントのセーブ失敗バグ修正プラグイン","parameters":{}}
+{"name":"ExcludeMaterialGuard","status":true,"description":"未使用素材削除ガードプラグイン","parameters":{"画像素材":"[\"pictures/fog_bar_dark\",\"pictures/fog_bar_firelightL\",\"pictures/fog_bar_firelightS\",\"pictures/fog_bar_lightL\",\"pictures/fog_bar_lightM\",\"pictures/fog_bar_lightS\"]","音声素材":""}}
 ];
